@@ -1,0 +1,42 @@
+.content {
+    padding: 3em;
+    padding-top: 1em;
+}
+
+h1 {
+    margin-bottom: auto;
+}
+
+table {
+    width: 100%;
+    overflow: auto;
+    height: 100vh;
+}
+
+thead {
+    min-height: 3em;
+}
+
+th, td {
+    padding: 1em; /* provoca espacion entre cada linea de la tabla */
+    box-sizing: border-box;
+    text-align: center;
+    box-shadow: 0 0 1.5px -1px; /*crea recuadro para la tabla*/
+    flex: 1 0 10em;
+}
+
+thead, tbody {
+    display: flex;
+    flex-direction: column;
+}
+
+tr {
+    display: flex;
+    flex: 1 0;
+}
+
+tbody {
+    @media screen and (min-aspect-ratio: 1/1) {
+        overflow: auto;
+    }
+}

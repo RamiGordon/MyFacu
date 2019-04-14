@@ -1,0 +1,132 @@
+{
+    "Materias": [
+        {
+            "id": 1,
+            "nombre": "Analisis Matematico I",
+            "año": 1,
+            "promocion": false,
+            "final": true,
+            "nota": 7
+        },
+        {
+            "id": 2,
+            "nombre": "Algoritmos y Estructuras de Datos",
+            "año": 1,
+            "promocion": false,
+            "final": true,
+            "nota": 8
+        },
+        {
+            "id": 3,
+            "nombre": "Arquitectura de Computadoras",
+            "año": 1,
+            "promocion": false,
+            "final": true,
+            "nota": 8
+        },
+        {
+            "id": 4,
+            "nombre": "Sistemas y Organizaciones",
+            "año": 1,
+            "promocion": false,
+            "final": true,
+            "nota": 4
+        },
+        {
+            "id": 5,
+            "nombre": "Ingles I",
+            "año": 1,
+            "promocion": false,
+            "final": true,
+            "nota": 6
+        },
+        {
+            "id": 6,
+            "nombre": "Algebra",
+            "año": 1,
+            "promocion": false,
+            "final": true,
+            "nota": 8
+        },
+        {
+            "id": 7,
+            "nombre": "Fisica I",
+            "año": 1,
+            "promocion": false,
+            "final": true,
+            "nota": 9
+        },
+        {
+            "id": 8,
+            "nombre": "Analisis Matematico II",
+            "año": 2,
+            "promocion": false,
+            "final": true,
+            "nota": 6
+        },
+        {
+            "id": 9,
+            "nombre": "Fisica II",
+            "año": 2,
+            "promocion": false,
+            "final": true,
+            "nota": 7
+        },
+        {
+            "id": 10,
+            "nombre": "Sintaxis y Semantica del Lenguaje",
+            "año": 2,
+            "promocion": false,
+            "final": true,
+            "nota": 7
+        },
+        {
+            "id": 11,
+            "nombre": "Paradigmas de Programacion",
+            "año": 2,
+            "promocion": false,
+            "final": true,
+            "nota": 6
+        },
+        {
+            "id": 12,
+            "nombre": "Sistemas Operativos",
+            "año": 2,
+            "promocion": false,
+            "final": true,
+            "nota": 0
+        },
+        {
+            "id": 13,
+            "nombre": "Analisis Matematico I",
+            "año": 1,
+            "promocion": false,
+            "final": true,
+            "nota": 7
+        },
+        {
+            "id": 14,
+            "nombre": "Analisis Matematico I",
+            "año": 1,
+            "promocion": false,
+            "final": true,
+            "nota": 7
+        },
+        {
+            "id": 15,
+            "nombre": "Analisis Matematico I",
+            "año": 1,
+            "promocion": false,
+            "final": true,
+            "nota": 7
+        },
+        {
+            "id": 16,
+            "nombre": "Analisis Matematico I",
+            "año": 1,
+            "promocion": false,
+            "final": true,
+            "nota": 7
+        }
+    ]
+}
